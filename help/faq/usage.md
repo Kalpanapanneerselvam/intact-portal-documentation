@@ -2,7 +2,7 @@
 
 ## Can I search for more than one protein at a time?
 
-Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually TP53 **OR** MDM2 **OR** CHK2 **OR** LCK. If you wish to specify interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2.
+For searching multiple proteins simultaneously, one can perform ‘Batch Search’ in IntAct. One can directly give the input query in the search box provided or can choose to upload a file containing an interested list of proteins. In the sequential steps, Batch search will allow you to choose to resolve the query terms and will fetch you the results. 
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
